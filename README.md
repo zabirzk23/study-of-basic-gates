@@ -52,7 +52,9 @@ Y= A⊕B
 **Procedure** 
 
 **PROGRAM**
-/* Program for flipflops and verify its truth table in quartus using Verilog programming
+
+Program for flipflops and verify its truth table in quartus using Verilog programming
+
  Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
